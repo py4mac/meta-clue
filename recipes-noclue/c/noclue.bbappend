@@ -1,2 +1,2 @@
 inherit externalsrc
-EXTERNALSRC = "${TOPDIR}/../meta-noclue/repices-noclue/c/noclue"
+EXTERNALSRC = "${TOPDIR}/../meta-noclue/recipes-noclue/c/noclue"
