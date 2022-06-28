@@ -1,2 +1,2 @@
 inherit externalsrc
-EXTERNALSRC = "${TOPDIR}/../meta-noclue/recipes-noclue/c/noclue"
+EXTERNALSRC = "${TOPDIR}/../../layers/py4mac/meta-noclue/recipes-noclue/c/noclue"
